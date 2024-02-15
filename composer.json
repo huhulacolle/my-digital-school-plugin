@@ -1,0 +1,17 @@
+{
+    "name": "hugo/my-digital-school",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hugo\\MyDigitalSchool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huhulacolle",
+            "email": "66556677+huhulacolle@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
