@@ -1,5 +1,5 @@
 {
-    "name": "hugo/my-digital-school",
+    "name": "hugo-cours/my-digital-school",
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
